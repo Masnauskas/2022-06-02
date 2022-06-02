@@ -11,3 +11,21 @@ header a {
   text-decoration: none;
   font-size: 50px;
 }
+.fontcolorwhite {
+  color: white;
+}
+.fontsize20 {
+  font-size: 40px;
+  padding: 0 20px;
+}
+body {
+  background-color: black;
+}
+section img {
+  height: 500px;
+  float: left;
+  margin: 0 20px;
+}
+.pfontsize {
+  font-size: 25px;
+}
