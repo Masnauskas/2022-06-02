@@ -29,3 +29,9 @@ section img {
 .pfontsize {
   font-size: 25px;
 }
+.button {
+  color: white;
+  text-decoration: none;
+  padding: 20px 20px;
+  font-size: 50px;
+}
